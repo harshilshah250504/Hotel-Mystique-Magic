@@ -1,2 +1,2 @@
-# Hotel-Mystique-Magic
-USING HTML CSS JAVASCRIPT BOOTSTRAP AND DRIFT THIS WEBSITE IS CREATED.
+# hotel-website
+I developed this mistique magic hotel website using HTML CSS and javascript and bootstrap and drift
